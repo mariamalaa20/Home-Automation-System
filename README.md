@@ -132,4 +132,3 @@ heatingSystem.setStrategy(new FastHeating());
 heatingSystem.adjustTemperature();
 ```
 
----
